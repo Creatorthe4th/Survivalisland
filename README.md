@@ -3,7 +3,7 @@
 ## How to Run This Project
 1. Download the ZIP and extract it.
 2. Navigate to `Survivalisland-main\Survivalisland-main\Assets\Scenes` and open the **SampleScene** file — this will launch the project in Unity (version **6000.0.77f1**).
-3. Once the scene finishes loading, press **Play** to start a run — the game drops you straight into gameplay (no main menu).
+3. Once the scene finishes loading, press **Play** to start a run — the game drops you straight into gameplay
 
 ## Game Concept
 Survival Island is a third-person survival game where the player explores a large open island, gathering resources by day and fending off enemies that emerge at night. The goal is simple but tense: survive until the timer runs out. As night falls, skeleton enemies spawn around the player, wander the island, and attack on sight — forcing the player to balance resource gathering against combat readiness.
